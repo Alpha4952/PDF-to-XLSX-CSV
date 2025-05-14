@@ -2,7 +2,7 @@
 ## A simple python script that converts PDF files into excel or csv files.
 
 ## Dependencies
-Python 3.13.2
+Python                  3.13.2
 pandas                  2.2.3
 pdfminer.six            20250327
 pdfplumber              0.11.6
